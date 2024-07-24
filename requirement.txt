@@ -1,0 +1,28 @@
+#library needed
+numpy
+pandas 
+matplotlib
+pathlib
+pillow
+tenserflow==2.14.0
+keras==2.14.0
+open cv
+math
+flask
+
+
+hierarchy of folders:
+
+Plant disease
+|
+|---static
+|---template
+    |-- index.html
+|--- test
+|--- train
+|--- validation
+|-- app.py
+|-- ResNet-50 implement
+|-- requirement.txt
+
+command to run program -- python app.py
